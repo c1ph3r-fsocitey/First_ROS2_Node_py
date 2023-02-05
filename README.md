@@ -5,3 +5,8 @@
 This is a ROS 2 Node made using python, which prints hello, with a number.
 
 The frequency of the printing is 2 Hz or 0.5 seconds
+
+To run the code, use the following command:
+```
+ros2 run (file_name) my_py_package
+```
