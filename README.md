@@ -2,7 +2,8 @@
 
 ## About ROS 2 Node
 
-This is a ROS 2 Node made using python, which prints hello, with a number.
+This is a ROS 2 Node made using python, which prints hello, with a number
+using Object Oriented Programming
 
 The frequency of the printing is 2 Hz or 0.5 seconds
 
