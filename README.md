@@ -11,3 +11,4 @@ To run the code, use the following command:
 ```
 ros2 run (file_name) my_py_package
 ```
+this project can be used to understand the simple and basic concepts of ROS2 using python programming
